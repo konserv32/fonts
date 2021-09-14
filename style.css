@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Circle;
+  font-weight: bold;
+  src: url(https://konserv32.github.io/fonts/Circe_Bold.woff);
+}
+@font-face {
+  font-family: Circle;
+  font-weight: normal;
+  src: url(https://konserv32.github.io/fonts/Circe_Regular.woff);
+}
+@font-face {
+  font-family: Circle;
+  font-weight: lighter;
+  src: url(https://konserv32.github.io/fonts/Circe_Light.woff);
+}
+* {
+  font-family: Circle, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
